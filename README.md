@@ -87,8 +87,19 @@ The formula engine uses a recursive evaluation strategy:
 5. Add undo/redo support
 6. Implement collaborative editing
 
- # Project Run Commands  
+# Project Run Commands  
  
     npm install
+    
+# if npm audit fix error Occour 
+
+    npm audit fix
+
+# Project Run Cammand
+
+    npm run dev
+
+    
+
 
  
