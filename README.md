@@ -88,6 +88,7 @@ The formula engine uses a recursive evaluation strategy:
 6. Implement collaborative editing
 
  # Project Run Commands  
-    ```npm install
+ 
+    npm install
 
  
