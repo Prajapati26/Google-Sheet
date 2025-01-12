@@ -86,3 +86,9 @@ The formula engine uses a recursive evaluation strategy:
 4. Implement save/load functionality
 5. Add undo/redo support
 6. Implement collaborative editing
+
+ # Project Run Commands  
+    ```typescript
+   npm install
+```
+ 
