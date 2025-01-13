@@ -4,7 +4,7 @@ A Google Sheets clone built with React, TypeScript, and modern web technologies.
 
 ## Tech Stack & Data Structures
 
-### Core Technologies
+### Core Technologies  
 - **React**: Frontend framework for building the user interface
 - **TypeScript**: Static typing for better development experience and code quality
 - **Zustand**: State management for handling the spreadsheet data
