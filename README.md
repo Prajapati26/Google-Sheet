@@ -69,7 +69,7 @@ The formula engine uses a recursive evaluation strategy:
    - TRIM
    - UPPER
    - LOWER
-   - REMOVE_DUPLICATES
+   - REMOVE_DUPLICATES 
    - FIND_AND_REPLACE
 
 4. Cell Formatting
