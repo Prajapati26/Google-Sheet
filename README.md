@@ -87,7 +87,15 @@ The formula engine uses a recursive evaluation strategy:
 5. Add undo/redo support
 6. Implement collaborative editing
 
-# Project Run Commands  
+# Clone the Repository:  
+ 
+    git clone https://github.com/Prajapati26/Chatbot.git
+
+# Navigate to the Project Directory  
+ 
+    cd Chatbot
+
+# Install Dependencies  
  
     npm install
     
@@ -95,7 +103,7 @@ The formula engine uses a recursive evaluation strategy:
 
     npm audit fix
 
-# Project Run Cammand
+# Running the Application
 
     npm run dev
 
