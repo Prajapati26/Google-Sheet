@@ -1,4 +1,4 @@
-# React Sheets Clone
+# Google Sheets Clone
 
 A Google Sheets clone built with React, TypeScript, and modern web technologies.
 
