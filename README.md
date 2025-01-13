@@ -89,11 +89,11 @@ The formula engine uses a recursive evaluation strategy:
 
 # Clone the Repository:  
  
-    git clone https://github.com/Prajapati26/Chatbot.git
+    git clone https://github.com/Prajapati26/Google-Sheet.git
 
 # Navigate to the Project Directory  
  
-    cd Chatbot
+    cd Google-Sheet
 
 # Install Dependencies  
  
